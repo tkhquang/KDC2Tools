@@ -2,4 +2,5 @@
 !/**/.gitkeep
 .vscode
 
+TPVToggle/build/obj/*
 TPVToggle/build/KCD2_TPVToggle.asi
